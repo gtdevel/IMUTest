@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IMUTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="status_info">Press button to start/stop tracking accelerometer, gyroscope and gravity data.</string>
+	<string name="button_start">Start Tracking</string>
+	<string name="button_stop">Stop Tracking, Save Data</string>
+	<string name="service_tracking">Motion Tracker</string>
+</resources>
